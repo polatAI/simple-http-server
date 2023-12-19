@@ -18,10 +18,10 @@ pip install Jinja2
 Sunucuyu Başlatma:
 
 python server.py
-Sunucu artık http://192.168.1.104:9999 adresinde çalışıyor olmalıdır.
+Sunucu artık http://hostaddress:9999 adresinde çalışıyor olmalıdır.
 
 Tarayıcıda Görüntüleme:
-Tarayıcınızı açın ve http://192.168.1.104:9999 adresine gidin.
+Tarayıcınızı açın ve http://hostaddress:9999 adresine gidin.
 
 ## 📂 Proje Yapısı
 server.py: Ana HTTP sunucu kodu.
