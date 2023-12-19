@@ -9,8 +9,8 @@ Bu proje, Python'un `http.server` modülünü kullanarak basit bir HTTP sunucusu
 
 2. **Projeyi İndirme:**
    ```bash
-   git clone https://github.com/kullaniciadi/proje.git
-   cd proje
+   https://github.com/SOFTWAREPOLAT/simple-http-server
+   cd simpole-http-server
 Gerekli Kütüphaneyi Yükleme:
 
 pip install Jinja2
