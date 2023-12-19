@@ -3,8 +3,8 @@ import logging
 import time
 from jinja2 import Environment, FileSystemLoader
 
-HOST = "192.168.1.104"
-PORT = 9999
+HOST = "" # Host Address
+PORT = 9999 # Port
 
 class simpleHTTP(BaseHTTPRequestHandler):
     def log_message(self, format, *args):
